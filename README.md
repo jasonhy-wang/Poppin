@@ -96,36 +96,17 @@ A few screenshots and scenarios of the application, as well as a video walkthrou
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<figure>
-  <img src="project/static/images/1.png" alt="Caption describing Image 1" style="width:100%; height:auto;">
-  <figcaption style="text-align:center;">Sign up page authenticated through UofT email</figcaption>
-</figure>
+| Sign Up Page | Home Page |
+| ------------- | ------------- |
+| ![Sign Up Page](project/static/images/1.png "Sign up page authenticated through UofT email") | ![Home Page](project/static/images/2.png "Home page") |
 
-<figure>
-  <img src="project/static/images/2.png" alt="Caption describing Image 2" style="width:100%; height:auto;">
-  <figcaption style="text-align:center;">Home page</figcaption>
-</figure>
+| Event Explore Page | Event Details Page |
+| ------------- | ------------- |
+| ![Event Explore Page](project/static/images/3.png "Event explore page") | ![Event Details Page](project/static/images/4.png "Event details page") |
 
-<figure>
-  <img src="project/static/images/3.png" alt="Caption describing Image 3" style="width:100%; height:auto;">
-  <figcaption style="text-align:center;">Event explore page</figcaption>
-</figure>
-
-<figure>
-  <img src="project/static/images/4.png" alt="Caption describing Image 4" style="width:100%; height:auto;">
-  <figcaption style="text-align:center;">Event details page</figcaption>
-</figure>
-
-<figure>
-  <img src="project/static/images/5.png" alt="Caption describing Image 5" style="width:100%; height:auto;">
-  <figcaption style="text-align:center;">Profile page</figcaption>
-</figure>
-
-<figure>
-  <img src="project/static/images/6.png" alt="Caption describing Image 6" style="width:100%; height:auto;">
-  <figcaption style="text-align:center;">Page for creating events</figcaption>
-</figure>
-
+| Profile Page | Event Creation Page |
+| ------------- | ------------- |
+| ![Profile Page](project/static/images/5.png "Profile page") | ![Event Creation Page](project/static/images/6.png "Page for creating events") |
 
 
 <!-- CONTACT -->
