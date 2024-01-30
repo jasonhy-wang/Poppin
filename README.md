@@ -26,7 +26,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ECE444-2023Fall/project-1-web-application-design-group17-jigglies">
-    <img src="images/logo.png" alt="Poppin' logo!" width="900" height="307">
+    <img src="project/static/images/minimal_logo.png" alt="Poppin' logo!" width="900" height="307">
   </a>
 
   <h3 align="center">Poppin: UofT's Community Hub</h3>
@@ -87,47 +87,44 @@ The majority of this project was built using Flask for python as well as HTML an
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Video Walkthrough
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Screenshots and scenarios will be put here when the application is more developed :smile:
+A few screenshots and scenarios of the application, as well as a video walkthrough of the full functionality. 😊
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<figure>
+  <img src="project/static/images/1.png" alt="Caption describing Image 1" style="width:100%; height:auto;">
+  <figcaption style="text-align:center;">Sign up page authenticated through UofT email</figcaption>
+</figure>
 
+<figure>
+  <img src="project/static/images/2.png" alt="Caption describing Image 2" style="width:100%; height:auto;">
+  <figcaption style="text-align:center;">Home page</figcaption>
+</figure>
 
-<!-- ROADMAP -->
-## Roadmap
+<figure>
+  <img src="project/static/images/3.png" alt="Caption describing Image 3" style="width:100%; height:auto;">
+  <figcaption style="text-align:center;">Event explore page</figcaption>
+</figure>
 
-Our team will be using Jira for project management. You can find our board [here](https://ece444-jigglies-poppin.atlassian.net/jira/software/projects/SCRUM/boards/1).
+<figure>
+  <img src="project/static/images/4.png" alt="Caption describing Image 4" style="width:100%; height:auto;">
+  <figcaption style="text-align:center;">Event details page</figcaption>
+</figure>
 
-Sprint 2:
-- [ ] Front end mockups
-- [ ] Basic functionality of whole site
-- [ ] Sprint 1 Backlog
+<figure>
+  <img src="project/static/images/5.png" alt="Caption describing Image 5" style="width:100%; height:auto;">
+  <figcaption style="text-align:center;">Profile page</figcaption>
+</figure>
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Please work on your own branch and create a pull request before merging into any branch you don't have sole ownership over. Each pull request must have at least one reviewer so that a team member can independently verify functionality.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<figure>
+  <img src="project/static/images/6.png" alt="Caption describing Image 6" style="width:100%; height:auto;">
+  <figcaption style="text-align:center;">Page for creating events</figcaption>
+</figure>
 
 
 
@@ -140,18 +137,6 @@ John Lee - johnheyjun.lee@mail.utoronto.ca
 Jason Wang - jasonhy.wang@mail.utoronto.ca
 
 Project Link: [https://github.com/ECE444-2023Fall/project-1-web-application-design-group17-jigglies](https://github.com/ECE444-2023Fall/project-1-web-application-design-group17-jigglies)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-This beautiful README was made using the template linked below by othneildrew.
-
-* [othneildrew's README Template](https://github.com/othneildrew/Best-README-Template)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
